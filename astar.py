@@ -157,3 +157,4 @@ def aStar(start, end, mapSize, obsticles, speed):
 
 if __name__ == '__main__':
     print(main())
+    x = input("Press anything to exit...")
